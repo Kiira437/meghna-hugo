@@ -13,11 +13,11 @@ languageCode = "en-us"
 languageName = "En"
 weight = 1
 [Languages.fr]
-contentDir = "content/french"
+contentDir = "content/swedish"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
 home = "Accueil"
-languageCode = "fr-fr"
-languageName = "Fr"
+languageCode = "SW-SW"
+languageName = "SE"
 weight = 2
 [[menu.main]]
 URL = "about"
