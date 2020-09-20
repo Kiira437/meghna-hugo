@@ -5,8 +5,8 @@ banner:
   bg_image: images/backgrounds/hero-area.jpg
   icon: ''
   title: Hi, Iam Ashoka Narayana
-  content: A Quality and Operations Management graduate from Chalmers who approaches
-    the problem with different perspective.
+  content: A Quality and Operations Management graduate from Chalmers who approaches  problem
+    with different perspective.
   button:
     enable: true
     label: Know more
