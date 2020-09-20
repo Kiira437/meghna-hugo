@@ -1,11 +1,10 @@
 ---
 contact:
   enable: true
-  title: Contact Us
+  title: 'Contact '
   subtitle: Contact Details
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero,
-    provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores
-    dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+  content: If you are interested in my profile and would like to know more, you can
+    contact me with the information provided below
   contact_list:
   - icon: ti-location-pin
     info: Göteborg, Sweden
