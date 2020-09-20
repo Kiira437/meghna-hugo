@@ -3,7 +3,7 @@ disableLanguages = []
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
-theme = "meghna-hugo"
+theme = "Ashok-hugo"
 title = "Ashoka Narayana"
 [Languages.en]
 contentDir = "content/english"
@@ -104,7 +104,7 @@ icon = "ti-youtube"
 link = "#"
 [[params.social]]
 icon = "ti-linkedin"
-link = "#"
+link = "https://www.linkedin.com/in/ashoka-narayana/"
 [[params.social]]
 icon = "ti-dribbble"
 link = "#"
